@@ -61,11 +61,9 @@ li a:hover {
 }
 
 .grid-container {
-    /* width:100%; */
     grid-template-columns: 18% 60% 18%;
     display: grid;
     gap: 2%;
-    /* padding: 10px; */
 }
 
 .col1 {
